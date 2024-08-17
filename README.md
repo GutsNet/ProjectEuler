@@ -13,3 +13,4 @@
 | #   | Nombre  | Dificultad  | Solución |  
 |-----|---------|:-------------:|----------|
 | 001 | [Multiples of 3 or 5](https://projecteuler.net/problem=1) | 5% | [Ver Solución](https://github.com/GutsNet/ProjectEuler/blob/main/Soluciones/001.md) |
+| 002 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2) | 5% | [Ver Solución](https://github.com/GutsNet/ProjectEuler/blob/main/Soluciones/002.md) |
