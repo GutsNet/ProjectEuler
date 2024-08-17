@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://projecteuler.net/progress=GutsNet">
-  <img title="Project Euler" src="https://img.shields.io/badge/Project%20Euler-GutsNet-blue.svg?style=for-the-badge">
+  <img title="Project Euler" src="https://img.shields.io/badge/Project%20Euler-GutsNet-orange.svg?style=for-the-badge">
 </a>
 
 # Problemas resueltos
