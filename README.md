@@ -1,1 +1,1 @@
-# ProjectEuler-Codes
+# ProjectEuler
